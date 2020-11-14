@@ -1,16 +1,31 @@
-### Hi there 👋
+<h3 align="center">みけたのGitHubへようこそ！</h3>
 
-<!--
-**miketa-webprgr/miketa-webprgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <a href="https://github.com/miketa_webprgr"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/miketa_webprgr"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://qiita.com/miketa_webprgr"><img alt="Qiita" title="Qiita" src="https://img.shields.io/badge/-Qiita-55C501?style=for-the-badge&logo=Qiita&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+## 自己紹介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 2019年度末に退職し、Webエンジニアを目指して勉強中
+* Ruby on Railsを中心とした学習をしています
+* Twitterで日々学んだことを発信しています
+* MENTAを通して、だいそんさんというメンターさんにお世話になっています
+  - [完全未経験からエンジニア転職の実績あり❗️ エンジニア転職にむけた学習と就職サポート](https://menta.work/plan/577)
+  - [Webエンジニア育成のための真面目なメンタリングサービス \| TechEssentials](https://tech-essentials.work/)
+
+## 執筆した技術系の記事
+
+文章を書くのが好きです。  
+それなりに頑張って書いたものを以下に掲載します。  
+
+### Qiita
+
+* [RailsでSwiperを導入する方法（Swiperは2020年7月にバージョンアップし、従来と設定方法が変わりました！） \- Qiita](https://qiita.com/miketa_webprgr/items/0a3845aeb5da2ed75f82)
+* [問題です！ ①と②が同じだって分かりますか？（クラス・インスタンス・メソッド・引数を実践で理解しよう！） \- Qiita](https://qiita.com/miketa_webprgr/items/361d339d2739792457ab)
+
+### GitHubのメモ
+
+* [Sidekiqのノート](https://github.com/miketa-webprgr/TIL/blob/master/11_Rails_Intensive_Training/12_issue_note.md)
+* [Railsのform_withのノート（作成中）](https://github.com/miketa-webprgr/TIL/blob/master/99_etc/20201105_form_wth_note.md)
