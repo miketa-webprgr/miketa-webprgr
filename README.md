@@ -25,10 +25,10 @@
 
 ## 自己紹介
 
-* 2019年度末に退職し、Webエンジニアを目指して勉強中
-* Ruby on Railsを中心とした学習をしています
-* Twitterで日々学んだことを発信しています
-* MENTAを通して、だいそんさんというメンターさんにお世話になっています
+* Railsのバックエンドエンジニアとして、クラウドファンディングサイトの開発に従事しています
+   * 2019年度末に退職し、Webエンジニアを目指して勉強開始
+   * 2021年１月から、バックエンドエンジニアとしてキャリアをスタート
+* MENTAを活用して、自主学習にも取り組んでいます。
   - [完全未経験からエンジニア転職の実績あり❗️ エンジニア転職にむけた学習と就職サポート](https://menta.work/plan/577)
   - [Webエンジニア育成のための真面目なメンタリングサービス \| TechEssentials](https://tech-essentials.work/)
 
@@ -45,4 +45,3 @@
 ### GitHubのメモ
 
 * [Sidekiqのノート](https://github.com/miketa-webprgr/TIL/blob/master/11_Rails_Intensive_Training/12_issue_note.md)
-* [Railsのform_withのノート（作成中）](https://github.com/miketa-webprgr/TIL/blob/master/99_etc/20201105_form_wth_note.md)
